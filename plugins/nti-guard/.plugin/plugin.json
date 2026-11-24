@@ -1,0 +1,8 @@
+{
+  "name": "nti-guard",
+  "version": "0.1.0",
+  "description": "Verify a Neutral Trust Infrastructure delegation attestation before a task runs, and record post-quantum signed receipts for every tool action.",
+  "author": "Abisheak P.",
+  "repository": "https://github.com/abisheakp197/Openhands---nti",
+  "license": "Apache-2.0"
+}
